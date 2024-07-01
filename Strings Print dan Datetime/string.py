@@ -6,7 +6,7 @@
 # Lagi Metode String
 # Saatnya mengimplementasikan apa yang telah anda pelajari di unit sebelumnya!
 
-#  Instruksi:
+# INSTRUKSI
 # Lengkapi variabel di editor samping menggunakan metode yang telah kita pelajari sebelumnya. Lihat petunjuk atau unit sebelumnya jika kesulitan.
 
 ucapan = "Nama Python dipilih karena pembuatnya menyukai acara TV Monty Python."
